@@ -3,7 +3,7 @@
 
 ## usage
 - ```python3 secret_keeper.py --genkey --encrypt```
-- ```python3 net_probe.py --decrypt```
+- ```python3 secret_keeper.py --decrypt```
 
 ### options:
 - ```-h, --help            		   Show this help message and exit```
