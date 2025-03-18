@@ -7,8 +7,8 @@
 
 ### options:
 - ```-h, --help            		   Show this help message and exit```
-- ```-e, --encrypt			   To encrypt Plaintext```
-- ```-d, --decrypt     	       		   To decrypt Cipertext```
+- ```-e, --encrypt			   to encrypt Plaintext```
+- ```-d, --decrypt     	       		   to decrypt Cipertext```
 - ```-gk, --genkey			   Generate Cipher key```
 - ```-s, --save         		   Save cipher key to file```
 
