@@ -1,5 +1,5 @@
 # Secret Keeper
-- Secret Keeper is a basic message encrypt & decrypt program
+- Secret Keeper is a basic message encryption & decryption program
 
 ## usage
 - ```python3 secret_keeper.py --genkey --encrypt```
@@ -16,7 +16,8 @@
 - ```git clone https://github.com/Horlalaycon/secret_keeper.git```
 - ```cd secret_keeper```
 - ```pip install -r requirements.txt```
-- ```python3 secret_keeper.py --genkey --encrypt```
+- ```chmod +x secret_keeper```
+- ```./secret_keeper --genkey --encrypt --save key_file```
 
 # Author
-- Program Developed by sys_br3ach3r @ Github https://github.com/Horlalaycon
+- Program Developed by sys_br3ach3r @ GitHub https://github.com/Horlalaycon
