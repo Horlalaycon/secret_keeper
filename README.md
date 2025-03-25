@@ -20,4 +20,4 @@
 - ```./secret_keeper --genkey --encrypt --save key_file```
 
 # Author
-- Program Developed by sys_br3ach3r @ GitHub https://github.com/Horlalaycon
+- Program Developed by <a href="https://github.com/Horlalaycon">sys_br3ach3r</a> @ GitHub
