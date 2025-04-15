@@ -64,6 +64,7 @@ def main():
 	# banner
 	print(Fore.BLACK + Back.WHITE + f"***************(Secret Keeper.)***************" + Style.RESET_ALL)
 	print(Fore.BLACK + Back.WHITE + f"   By Sys_br3ach3r                            " + Style.RESET_ALL)
+	print()
 
 	if args.genkey:
 		key = generate_key()
